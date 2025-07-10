@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📁 Projeto: Exercícios de Programação Orientada a Objetos
 
 ## 📘 Descrição
@@ -62,3 +63,6 @@ Representa um funcionário e permite aplicar aumento salarial percentual.
 
 *Faculdade:* Unyleya
 *Aluno:* José Samuel Ferreira da Silva
+=======
+# Unidade-01---POO
+>>>>>>> 8591a3f590011fe6c2a7bffd125040c617c7291d
